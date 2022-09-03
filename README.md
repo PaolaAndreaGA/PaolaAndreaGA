@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Paola García</h1>
 <h3 align="center">A Software Developer from Colombia</h3>
 
